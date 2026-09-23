@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# FastAPI / Uvicorn
+*.log
+
+# SQLite database
+# Uncomment the next line if you do NOT want to upload your database
+# database.db
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
